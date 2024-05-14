@@ -1,4 +1,4 @@
-# Laravel 9 Eloquent 模型記錄異動歷程
+# Laravel 10 Eloquent 模型記錄異動歷程
 
 引入 venturecraft 的 revisionable 套件來擴增 Eloquent 模型記錄異動歷程，允許您僅使用特徵機制即可保留模型異動的歷史記錄，取得異動的資料非常簡單，從而可以以多種方式顯示它們。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/wveLTQK.png)
+![](https://i.imgur.com/0hE2DOv.png)
 > 可以看到異動歷程，也可以更進一步紀錄異動人員（如果有需要）
