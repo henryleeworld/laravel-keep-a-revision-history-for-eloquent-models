@@ -1,0 +1,16 @@
+{
+    " from original ": "從原本的 ",
+    " updated to ": " 更新為 ",
+    "Administrator": "系統管理員",
+    "Clark Kent": "克拉克·肯特",
+    "created_at": "建立時間",
+    "email": "電子郵件",
+    "email_verified_at": "電子郵件驗證時間",
+    "id": "編號",
+    "name": "姓名",
+    "password": "密碼",
+    "remember_token": "記住權杖（token）",
+    "The original name of user ID :id is: :name and the original email is: :email": "使用者編號為 :id 的原本姓名為：:name 且原本電子郵件為：:email",
+    "The updated name of user ID :id is: :name and the updated email is: :email": "使用者編號為 :id 的更新姓名為：:name 且更新電子郵件為：:email",
+    "updated_at": "更新時間"
+}
